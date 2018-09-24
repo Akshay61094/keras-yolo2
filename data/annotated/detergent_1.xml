@@ -1,0 +1,26 @@
+<annotation>
+  <folder>data</folder>
+  <filename>detergent_1</filename>
+  <path>C:\Users\Akshay\yolo\data\detergent_1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4000</width>
+    <height>3000</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>detergent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1497</xmin>
+      <ymin>1040</ymin>
+      <xmax>2293</xmax>
+      <ymax>2131</ymax>
+    </bndbox>
+  </object>
+</annotation>
