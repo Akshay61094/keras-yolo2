@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>image_037.jpg</filename>
+	<path>C:\Users\Vivek\Downloads\image\image_037.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>273</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maggie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>24</ymin>
+			<xmax>121</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>
